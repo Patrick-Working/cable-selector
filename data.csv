@@ -1,0 +1,7 @@
+Console,Region,Variant,Signal,SYNC,Connector,Message
+A,A.1,A.1.1,A.1.1.1,A.1.1.1.1,Yes,"This is the message for the first row|https://www.google.com"
+A,A.1,A.1.1,A.1.1.1,A.1.1.1.2,No,"This is the message for the second row"
+A,A.1,A.1.1,A.1.1.1,A.1.1.1.3,No,"This is the message for the third row"
+B,B.1,B.1.1,B.1.1.1,B.1.1.1.1,Yes,"This is the message for the fourth row"
+B,B.1,B.1.1,B.1.1.1,B.1.1.1.2,No,"This is the message for the fifth row"
+B,B.1,B.1.1,B.1.1.1,B.1.1.1.3,No,"This is the message for the sixth row"
